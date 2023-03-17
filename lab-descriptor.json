@@ -13,72 +13,72 @@
     "introduction": "A virtual laboratory is a tool for distance learning and/or experimentation that allows people to share knowledge, data, voice, video, tools, and many other resources. It provides a suitable environment to extend, improve, integrate, refine, and assist the learning and/or experimentation process of many subjects, thus contributing to an increase of the effectiveness of scientific research and widening the use of scarce or costly equipments. This project is an initiative of Ministry of Human Resource Department under National Mission on Education through ICT.",
     "experiments": [
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Use of Assmann Psychrometer and estimation of Psychrometer properties",
+      "short-name": "assmann-psychrometer",
+      "repo": "https://github.com/virtual-labs/exp-assmann-psychrometer-iitkgp",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Determination of method factor of a duct",
+      "short-name": "method-factor-duct",
+      "repo": "https://github.com/virtual-labs/exp-method-factor-duct-iitkgp",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Performance Evaluation of Mine Evasee Present in a Ventilation System",
+      "short-name": "ventilation-system",
+      "repo": "https://github.com/virtual-labs/exp-ventilation-system-iitkgp",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Calibration of orifice plates",
+      "short-name": "orifice-plates",
+      "repo": "https://github.com/virtual-labs/exp-orifice-plates-iitkgp",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Calibration of Inclined Tube Manometer using Askania Minimeter",
+      "short-name": "askania-minimeter",
+      "repo": "https://github.com/virtual-labs/exp-askania-minimeter-iitkgp",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Determination of Frictional Co-efficient of Mine Airways",
+      "short-name": "mine-airways",
+      "repo": "https://github.com/virtual-labs/exp-mine-airways-iitkgp",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Precise Traversing in a Duct using Pitot Tube",
+      "short-name": "pitot-tube",
+      "repo": "https://github.com/virtual-labs/exp-pitot-tube-iitkgp",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Establishment of the Relationship between Kata Cooling Power and Air Velocity",
+      "short-name": "air-velocity",
+      "repo": "https://github.com/virtual-labs/exp-air-velocity-iitkgp",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Determination of Shock Pressure Loss in Presence of Tub and Estimation of Drag coefficient",
+      "short-name": "drag-coefficient",
+      "repo": "https://github.com/virtual-labs/exp-drag-coefficient-iitkgp",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Fan Rating Test",
+      "short-name": "fan-rating-test",
+      "repo": "https://github.com/virtual-labs/exp-fan-rating-test-iitkgp",
       "tag": "v1.0.0",
       "deploy": true
     }
