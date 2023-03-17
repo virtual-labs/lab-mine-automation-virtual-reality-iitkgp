@@ -4,17 +4,17 @@
         "name": "",
         "link": ""
     },
-    "lab": "",
-    "lab_display_name": "",
-    "deployLab": ,
-    "phase": ,
-    "collegeName": "",
+    "lab": "Mine Automation & Virtual Reality",
+    "lab_display_name": "Mine Automation & Virtual Reality",
+    "deployLab": true,
+    "phase": 3,
+    "collegeName": "IITKGP",
     "baseUrl": "",
-    "introduction": "",
+    "introduction": "A virtual laboratory is a tool for distance learning and/or experimentation that allows people to share knowledge, data, voice, video, tools, and many other resources. It provides a suitable environment to extend, improve, integrate, refine, and assist the learning and/or experimentation process of many subjects, thus contributing to an increase of the effectiveness of scientific research and widening the use of scarce or costly equipments. This project is an initiative of Ministry of Human Resource Department under National Mission on Education through ICT.",
     "experiments": [],
     "targetAudience": {
-        "UG": [],
-        "PG": []
+        "UG": ["Students of Mining"],
+        "PG": ["Students of Mining"]
     },
     "objective": "",
     "courseAlignment": {
