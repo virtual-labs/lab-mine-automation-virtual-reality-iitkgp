@@ -87,9 +87,9 @@
         "UG": ["Students of Mining"],
         "PG": ["Students of Mining"]
     },
-    "objective": "",
+    "objective": "The objective of the proposed virtual lab is to simulate different mine ventilation related experiments for imparting the laboratory skill to the mining engineering students in this area, in the context of insufficient laboratory facilities for many of the mining engineering institutes.",
     "courseAlignment": {
-        "description": "",
-        "universities": []
+        "description": "The lab contents are chosen such that it covers the syllabi of the Mining course of various universities to considerable extent.",
+        "universities": ["Indian Institute of Technology Kharagpur"]
     }
 }
