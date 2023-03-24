@@ -1,17 +1,16 @@
-
 {
-    "broadArea": {
-        "name": "Mechanical Engineering",
-        "link": "https://www.vlab.co.in/broad-area-mechanical-engineering"
-    },
-    "lab": "Mine Automation & Virtual Reality",
-    "lab_display_name": "Mine Automation & Virtual Reality",
-    "deployLab": true,
-    "phase": 3,
-    "collegeName": "IITKGP",
-    "baseUrl": "mv-iitkgp.vlabs.ac.in",
-    "introduction": "A virtual laboratory is a tool for distance learning and/or experimentation that allows people to share knowledge, data, voice, video, tools, and many other resources. It provides a suitable environment to extend, improve, integrate, refine, and assist the learning and/or experimentation process of many subjects, thus contributing to an increase of the effectiveness of scientific research and widening the use of scarce or costly equipments. This project is an initiative of Ministry of Human Resource Department under National Mission on Education through ICT.",
-    "experiments": [
+  "broadArea": {
+    "name": "Mechanical Engineering",
+    "link": "https://www.vlab.co.in/broad-area-mechanical-engineering"
+  },
+  "lab": "Mine Automation & Virtual Reality",
+  "lab_display_name": "Mine Automation & Virtual Reality",
+  "deployLab": true,
+  "phase": 3,
+  "collegeName": "IITKGP",
+  "baseUrl": "mv-iitkgp.vlabs.ac.in",
+  "introduction": "A virtual laboratory is a tool for distance learning and/or experimentation that allows people to share knowledge, data, voice, video, tools, and many other resources. It provides a suitable environment to extend, improve, integrate, refine, and assist the learning and/or experimentation process of many subjects, thus contributing to an increase of the effectiveness of scientific research and widening the use of scarce or costly equipments. This project is an initiative of Ministry of Human Resource Department under National Mission on Education through ICT.",
+  "experiments": [
     {
       "name": "Use of Assmann Psychrometer and estimation of Psychrometer properties",
       "short-name": "assmann-psychrometer",
@@ -82,14 +81,17 @@
       "tag": "v1.0.0",
       "deploy": true
     }
-    ],
-    "targetAudience": {
-        "UG": ["Under Graduate students of B.Tech. (Mining)"],
-        "PG": ["Post Graduate students of M.Tech. (Mining)"]
-    },
-    "objective": "The objective of the proposed virtual lab is to simulate different mine ventilation related experiments for imparting the laboratory skill to the mining engineering students in this area, in the context of insufficient laboratory facilities for many of the mining engineering institutes.",
-    "courseAlignment": {
-        "description": "The lab contents are chosen such that it covers the syllabi of the Mining course of various universities to considerable extent.",
-        "universities": ["Indian Institute of Technology Kharagpur"]
-    }
+  ],
+  "targetAudience": {
+    "UG": ["Under Graduate students of B.Tech. (Mining)"],
+    "PG": ["Post Graduate students of M.Tech. (Mining)"]
+  },
+  "objective": "The objective of the proposed virtual lab is to simulate different mine ventilation related experiments for imparting the laboratory skill to the mining engineering students in this area, in the context of insufficient laboratory facilities for many of the mining engineering institutes.",
+  "courseAlignment": {
+    "description": "The lab contents are chosen such that it covers the syllabi of the Mining course of various universities to considerable extent.",
+    "universities": ["Indian Institute of Technology Kharagpur"]
+  },
+  "exp_name": "Fan Rating Test",
+  "exp_short_name": "fan-rating-test",
+  "version": "v0.1.0"
 }
