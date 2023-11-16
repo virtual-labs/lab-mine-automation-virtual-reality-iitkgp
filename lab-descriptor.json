@@ -43,14 +43,14 @@
       "name": "Calibration of Inclined Tube Manometer using Askania Minimeter",
       "short-name": "askania-minimeter",
       "repo": "https://github.com/virtual-labs/exp-askania-minimeter-iitkgp",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Determination of Frictional Co-efficient of Mine Airways",
       "short-name": "mine-airways",
       "repo": "https://github.com/virtual-labs/exp-mine-airways-iitkgp",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
@@ -71,14 +71,14 @@
       "name": "Determination of Shock Pressure Loss in Presence of Tub and Estimation of Drag coefficient",
       "short-name": "drag-coefficient",
       "repo": "https://github.com/virtual-labs/exp-drag-coefficient-iitkgp",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Fan Rating Test",
       "short-name": "fan-rating-test",
       "repo": "https://github.com/virtual-labs/exp-fan-rating-test-iitkgp",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     }
   ],
