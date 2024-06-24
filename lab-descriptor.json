@@ -1,7 +1,8 @@
 {
   "broadArea": {
     "name": "Mechanical Engineering",
-    "link": "https://www.vlab.co.in/broad-area-mechanical-engineering"
+    "link": "https://www.vlab.co.in/broad-area-mechanical-engineering",
+    "code": "MECH"
   },
   "lab": "Mine Automation & Virtual Reality",
   "lab_display_name": "Mine Automation & Virtual Reality",
@@ -90,8 +91,5 @@
   "courseAlignment": {
     "description": "The lab contents are chosen such that it covers the syllabi of the Mining course of various universities to considerable extent.",
     "universities": ["Indian Institute of Technology Kharagpur"]
-  },
-  "exp_name": "Fan Rating Test",
-  "exp_short_name": "fan-rating-test",
-  "version": "v0.4.0"
+  }
 }
