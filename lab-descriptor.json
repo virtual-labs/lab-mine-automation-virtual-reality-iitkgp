@@ -79,7 +79,7 @@
       "name": "Fan Rating Test",
       "short-name": "fan-rating-test",
       "repo": "https://github.com/virtual-labs/exp-fan-rating-test-iitkgp",
-      "tag": "v1.0.3",
+      "tag": "v1.0.4",
       "deploy": true
     }
   ],
